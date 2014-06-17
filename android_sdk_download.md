@@ -7,5 +7,8 @@
 
     203.208.46.146 dl-ssl.google.com
    ```
+   hosts文件路径：
+   
    Windows  C:\windows\system32\drivers\etc
+   
    Linux  /etc/hosts
